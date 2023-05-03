@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Programas\Lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\Programacion\Pascal\Typer\lib\x86_64-win64 -FuD:\Programacion\Pascal\Typer\ -FUD:\Programacion\Pascal\Typer\lib\x86_64-win64\ -FED:\Programacion\Pascal\Typer\ -oD:\Programacion\Pascal\Typer\TypingGame.exe TypingGame.lpr"/>
+</CONFIG>

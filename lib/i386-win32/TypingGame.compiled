@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\Pascal\FPC\bin\i386-Win32\fpc.exe" Date="1262918680"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiD:\Pascal\Proyectos\TypingGame\lib\i386-win32 -FuD:\Pascal\Proyectos\TypingGame\ -FUD:\Pascal\Proyectos\TypingGame\lib\i386-win32\ -FED:\Pascal\Proyectos\TypingGame\ -oD:\Pascal\Proyectos\TypingGame\TypingGame.exe TypingGame.lpr"/>
+</CONFIG>
